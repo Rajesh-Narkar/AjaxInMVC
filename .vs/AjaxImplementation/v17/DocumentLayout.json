@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rajesh Narkar\\Downloads\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\Controllers\\EmpController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|c:\\users\\rajesh narkar\\source\\repos\\ajaximplementation\\ajaximplementation\\migrations\\20240618173354_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4FA6A1-DBBA-4492-926B-F0D11EB6AC1D}|AjaxImplementation\\AjaxImplementation.csproj|solutionrelative:ajaximplementation\\migrations\\20240618173354_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AjaxImplementation\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AjaxImplementation\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:07:17.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "AjaxImplementation\\Program.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Program.cs",
+              "RelativeToolTip": "AjaxImplementation\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:14:27.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\appsettings.json",
+              "RelativeDocumentMoniker": "AjaxImplementation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\appsettings.json",
+              "RelativeToolTip": "AjaxImplementation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T17:17:26.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AjaxImplementation\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Models\\Product.cs",
+              "RelativeToolTip": "AjaxImplementation\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:24:40.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AjaxImplementation\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AjaxImplementation\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv04AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:36:07.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "AjaxImplementation\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "AjaxImplementation\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:36:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\wwwroot\\js\\JavaScript.js",
+              "RelativeDocumentMoniker": "AjaxImplementation\\wwwroot\\js\\JavaScript.js",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\wwwroot\\js\\JavaScript.js",
+              "RelativeToolTip": "AjaxImplementation\\wwwroot\\js\\JavaScript.js",
+              "ViewState": "AQIAAJcAAAAAAAAAAAA8wJ4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T17:39:00.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\Downloads\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\Downloads\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\MayBatch1AspCoreApp\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:53:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240618173354_Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Migrations\\20240618173354_Product.cs",
+              "RelativeDocumentMoniker": "AjaxImplementation\\Migrations\\20240618173354_Product.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\AjaxImplementation\\AjaxImplementation\\Migrations\\20240618173354_Product.cs",
+              "RelativeToolTip": "AjaxImplementation\\Migrations\\20240618173354_Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:33:57.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
